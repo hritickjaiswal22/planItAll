@@ -16,5 +16,6 @@ export default defineConfig({
   out: "./migrations",
   dbCredentials: {
     url: process.env.DATABASE_URL || "",
+    port: 5432,
   },
 });

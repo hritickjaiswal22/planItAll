@@ -8,6 +8,20 @@
       "when": 1720507123484,
       "tag": "0000_black_mach_iv",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1720513321833,
+      "tag": "0001_keen_madame_web",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1720525174248,
+      "tag": "0002_large_nick_fury",
+      "breakpoints": true
     }
   ]
 }
